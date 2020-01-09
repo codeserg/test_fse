@@ -9,7 +9,7 @@
 import os
 import pickle
 import PySimpleGUI as sg 
-sg.ChangeLookAndFeel('Black')
+sg.ChangeLookAndFeel('Light')
 
 class Gui:
     ''' Create a GUI object '''
